@@ -1,0 +1,16 @@
+{
+    "arduino.path": "C:/Program Files (x86)/Arduino",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.logLevel": "info",
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.additionalUrls": [],
+    "arduino.defaultBaudRate": 9600,
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.intelliSenseEngineFailureRecovery": "enabled",
+    "C_Cpp.errorSquiggles": "disabled"
+}

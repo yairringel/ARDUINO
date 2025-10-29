@@ -1,0 +1,6 @@
+{
+    "sketch": "blink_example.ino",
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrispmkii"
+}
