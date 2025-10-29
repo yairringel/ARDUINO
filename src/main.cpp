@@ -22,7 +22,7 @@ const int BUTTON_PIN = 2;
 const int STEP_PIN = 10;
 const int DIR_PIN = 8;
 const int JOYSTICK_PIN = A1;
-
+//333
 // ==================== CONFIGURATION ====================
 const int JOYSTICK_DEADBAND = 150;      // Deadband around center (512)
 const int JOYSTICK_CENTER = 512;        // Center position of joystick
